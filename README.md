@@ -5,3 +5,11 @@
 
 [Django的CBV与FBV - Yuan先生 - 博客园 (cnblogs.com)](https://www.cnblogs.com/yuanchenqi/articles/8715364.html)
 
+## 简述
+
+
+
+## CBV And FBV
+
+
+
